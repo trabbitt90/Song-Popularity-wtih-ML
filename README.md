@@ -53,7 +53,7 @@ While a linear regression model would be appropriate for this analysis, we wante
 
 **Test Accuracy:   0.68**
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/100429663/203585561-107f42c9-d783-4c5a-9874-6cceef99ac9b.png))
 
 ### Tuned K-Nearest Neighbor Model
 
@@ -61,7 +61,7 @@ While a linear regression model would be appropriate for this analysis, we wante
 
 **Test Accuracy:   0.69**
 
-![image-2.png](attachment:image-2.png)
+![image](https://user-images.githubusercontent.com/100429663/203585866-9507a771-d825-40b0-9ccb-950cbc90fcdf.png)
 
 ### Tuned Random Forest Model
 
@@ -69,7 +69,7 @@ While a linear regression model would be appropriate for this analysis, we wante
 
 **Test Accuracy:   0.85**
 
-![image-3.png](attachment:image-3.png)
+![image](https://user-images.githubusercontent.com/100429663/203585948-10009f81-72f5-49d1-87cc-c263e7034686.png)
 
 ### Tuned XGBoost Model (Final Model)
 
@@ -77,11 +77,11 @@ While a linear regression model would be appropriate for this analysis, we wante
 
 **Test Accuracy:   0.89**
 
-![image-4.png](attachment:image-4.png)
+![image](https://user-images.githubusercontent.com/100429663/203586044-39f8c202-600f-490a-a761-78d8d8a4f81f.png)
 
 ### Feature Importance
 
-![image-5.png](attachment:image-5.png)
+![image](https://user-images.githubusercontent.com/100429663/203586110-78d7276c-e3ca-402f-8fbd-853c3a538656.png)
 
 
 ## Model Observations:
