@@ -1,4 +1,4 @@
-![image.png]([SL-123119-26540-43.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fmusical-pentagram-sound-waves-notes-background_1017-33911.jpg%3Fw%3D2000&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fmusic-show&tbnid=QEYRfYMsxIgXnM&vet=12ahUKEwjq0fvfzcT7AhWFl1MKHebcDswQMygBegUIARDVAg..i&docid=sy3DEZTZUYO0ZM&w=2000&h=1142&q=music%20images&ved=2ahUKEwjq0fvfzcT7AhWFl1MKHebcDswQMygBegUIARDVAg))
+![image.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fmusical-pentagram-sound-waves-notes-background_1017-33911.jpg%3Fw%3D2000&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fmusic-show&tbnid=QEYRfYMsxIgXnM&vet=12ahUKEwjq0fvfzcT7AhWFl1MKHebcDswQMygBegUIARDVAg..i&docid=sy3DEZTZUYO0ZM&w=2000&h=1142&q=music%20images&ved=2ahUKEwjq0fvfzcT7AhWFl1MKHebcDswQMygBegUIARDVAg)
 
 # Predicting Song Popularity with ML
 
