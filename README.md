@@ -107,6 +107,12 @@ After our analysis, we can conclude that you can indeed predict song popularity 
 
 The feature importance plot above assigns a score to input features based on how useful they are at predicting song popularity. According to this plot a genre of hiphop, R&B, and rock are most important when it comes to predicting song popularity. Pay extra attention to these genres when writing and producing future songs. 
 
+## Recommendations
+
+1. Allocate more funds to songs and artists that our model predicts will be popular. Doing so will give the record company 77% certainty that it will be money well spent.
+
+2. Consider Hip-hop, R&B, and Rock genres when producing new songs. These genres proved to be most important in determining song popularity.
+
 ## Limitations and Future Analysis
 
 While we used four different classification models for this project there are several more that may prove to have better performance, a couple that comes to mind would be Naive Bayes and Adaboost. Applying these models to the dataset would make for a more complete exploration of predictive power. We used GridSearchCV to improve the performance of each model, this iterative approach saw each model improve upon its baseline version. However, there are several hyperparameters that we did not address that could help improve model performance. Further analysis that addresses more hyperparameters has the potential to produce improved model performance. Additionally, future analysis and modeling might want to consider a couple of items:
